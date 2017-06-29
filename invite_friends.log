@@ -1,0 +1,217 @@
+[INFO]: [29-06-17 13:25:26]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:25:26]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 13:25:26]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002122 seconds 
+[ERROR]: [29-06-17 13:25:26]  [__main__] [friends:212] - Found 1 bad_inputs 
+[INFO]: [29-06-17 13:25:26]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 13:29:36]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:29:36]  [utils] [utils:67] - Invalid Longitude coordinate: longitude should be in degrees - Longitude: 76 
+[INFO]: [29-06-17 13:29:36]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001732 seconds 
+[ERROR]: [29-06-17 13:29:36]  [__main__] [friends:212] - Found 1 bad_inputs 
+[INFO]: [29-06-17 13:29:36]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 13:30:23]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:30:23]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 13:30:23]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001690 seconds 
+[ERROR]: [29-06-17 13:30:23]  [__main__] [friends:212] - Found 1 bad_inputs 
+[INFO]: [29-06-17 13:30:23]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 13:33:05]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:33:05]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 13:33:05]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002560 seconds 
+[INFO]: [29-06-17 13:33:05]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 13:33:53]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:33:53]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 13:33:53]  [__main__] [friends:237] - Invitatoin Generation Time: 0.002158 seconds 
+[INFO]: [29-06-17 13:34:39]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:34:39]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 13:34:39]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002683 seconds 
+[INFO]: [29-06-17 13:34:39]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 13:35:00]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:35:00]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 13:35:00]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001569 seconds 
+[INFO]: [29-06-17 13:35:00]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 13:36:47]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:36:47]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 13:36:47]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002762 seconds 
+[INFO]: [29-06-17 13:36:47]  [__main__] [friends:234] - Found 11 qualified friends 
+[ERROR]: [29-06-17 13:40:39]  [utils] [utils:53] - Invalid Location type: location should be of type LOCATION, given location is of type : <class 'utils.LOCATION'> 
+[INFO]: [29-06-17 13:40:52]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:40:52]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 13:40:52]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002092 seconds 
+[INFO]: [29-06-17 13:40:52]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 13:50:01]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:50:01]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 13:50:01]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002490 seconds 
+[INFO]: [29-06-17 13:50:01]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 13:57:45]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:57:45]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 13:57:45]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001916 seconds 
+[INFO]: [29-06-17 13:57:45]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 13:58:28]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 13:58:28]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 13:58:28]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001513 seconds 
+[INFO]: [29-06-17 13:58:28]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 14:01:25]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 14:01:25]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 14:01:25]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001877 seconds 
+[INFO]: [29-06-17 14:01:25]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 14:01:38]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 14:01:38]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 14:01:38]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002452 seconds 
+[INFO]: [29-06-17 14:01:38]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 14:03:24]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 14:03:24]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 14:03:24]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001650 seconds 
+[INFO]: [29-06-17 14:03:24]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 14:43:20]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 14:43:20]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 14:43:20]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002081 seconds 
+[INFO]: [29-06-17 14:43:20]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:05:38]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:05:38]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:05:38]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001572 seconds 
+[INFO]: [29-06-17 15:05:38]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:06:24]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:06:24]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:06:24]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002050 seconds 
+[INFO]: [29-06-17 15:06:24]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:06:33]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:06:33]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:06:33]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001565 seconds 
+[INFO]: [29-06-17 15:06:33]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:08:17]  [__main__] [friends:73] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:08:19]  [__main__] [friends:73] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:09:20]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:09:20]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:09:20]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001678 seconds 
+[INFO]: [29-06-17 15:09:20]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:43:23]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:43:23]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:43:23]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001691 seconds 
+[INFO]: [29-06-17 15:43:23]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:44:36]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:44:36]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:44:36]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002356 seconds 
+[INFO]: [29-06-17 15:44:36]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:45:28]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:45:28]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:45:28]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002820 seconds 
+[INFO]: [29-06-17 15:45:54]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:45:54]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:45:54]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001878 seconds 
+[INFO]: [29-06-17 15:45:54]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:47:07]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:47:07]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:47:07]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001532 seconds 
+[INFO]: [29-06-17 15:47:07]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:48:15]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:48:15]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:48:15]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002109 seconds 
+[INFO]: [29-06-17 15:48:15]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:48:27]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:48:27]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:48:27]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001729 seconds 
+[INFO]: [29-06-17 15:48:27]  [__main__] [friends:234] - Found 25 qualified friends 
+[INFO]: [29-06-17 15:48:51]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:48:51]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:48:51]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001816 seconds 
+[INFO]: [29-06-17 15:48:51]  [__main__] [friends:234] - Found 31 qualified friends 
+[INFO]: [29-06-17 15:49:02]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:49:02]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:49:02]  [__main__] [friends:251] - Invitatoin Generation Time: 0.003208 seconds 
+[INFO]: [29-06-17 15:49:02]  [__main__] [friends:234] - Found 31 qualified friends 
+[INFO]: [29-06-17 15:49:46]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:49:46]  [utils] [utils:65] - Invalid Latitude coordinate: latitude should be in degrees - Latitude: 13 
+[INFO]: [29-06-17 15:49:46]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002436 seconds 
+[INFO]: [29-06-17 15:49:46]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:52:52]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[ERROR]: [29-06-17 15:52:52]  [utils] [utils:67] - Invalid Longitude coordinate: longitude should be in degrees - Longitude: 76 
+[INFO]: [29-06-17 15:52:52]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002918 seconds 
+[INFO]: [29-06-17 15:52:52]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:53:03]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:53:03]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001209 seconds 
+[INFO]: [29-06-17 15:53:03]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:53:26]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:53:26]  [__main__] [friends:251] - Invitatoin Generation Time: 0.003942 seconds 
+[INFO]: [29-06-17 15:53:26]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:54:40]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:54:40]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001615 seconds 
+[INFO]: [29-06-17 15:54:40]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:55:05]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:55:05]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001177 seconds 
+[INFO]: [29-06-17 15:55:05]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:56:11]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:56:11]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001768 seconds 
+[INFO]: [29-06-17 15:56:11]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:56:26]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:56:26]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002414 seconds 
+[INFO]: [29-06-17 15:56:26]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:56:36]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:56:36]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001413 seconds 
+[INFO]: [29-06-17 15:56:36]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:56:58]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:56:58]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001267 seconds 
+[INFO]: [29-06-17 15:56:58]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:57:20]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:57:20]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001233 seconds 
+[INFO]: [29-06-17 15:57:20]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:58:37]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:58:37]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001224 seconds 
+[INFO]: [29-06-17 15:58:37]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:59:37]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:59:37]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001197 seconds 
+[INFO]: [29-06-17 15:59:37]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 15:59:58]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 15:59:58]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002284 seconds 
+[INFO]: [29-06-17 15:59:58]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:00:13]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:00:13]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001207 seconds 
+[INFO]: [29-06-17 16:00:13]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:02:32]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:02:32]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001502 seconds 
+[INFO]: [29-06-17 16:02:32]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:03:10]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:03:10]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001388 seconds 
+[INFO]: [29-06-17 16:03:10]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:03:40]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:03:40]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001519 seconds 
+[INFO]: [29-06-17 16:03:40]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:08:32]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:08:32]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001196 seconds 
+[INFO]: [29-06-17 16:08:32]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:08:49]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:09:19]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:09:19]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001051 seconds 
+[INFO]: [29-06-17 16:09:19]  [__main__] [friends:226] - Found 0 friends nearby to send invitations
+[INFO]: [29-06-17 16:09:30]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:09:30]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002094 seconds 
+[INFO]: [29-06-17 16:09:30]  [__main__] [friends:226] - Found 0 friends nearby to send invitations
+[INFO]: [29-06-17 16:09:40]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:09:40]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001510 seconds 
+[INFO]: [29-06-17 16:09:40]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:11:09]  [__main__] [friends:150] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:11:16]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:11:16]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001222 seconds 
+[INFO]: [29-06-17 16:11:16]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:15:49]  [__main__] [friends:131] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:15:49]  [__main__] [friends:229] - Invitatoin Generation Time: 0.000913 seconds 
+[INFO]: [29-06-17 16:15:49]  [__main__] [friends:204] - Found 0 friends nearby to send invitations
+[INFO]: [29-06-17 16:26:02]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:26:02]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002124 seconds 
+[INFO]: [29-06-17 16:26:02]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:29:20]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:29:20]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002192 seconds 
+[INFO]: [29-06-17 16:29:20]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:31:27]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:31:27]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001407 seconds 
+[INFO]: [29-06-17 16:31:27]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:32:38]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:32:38]  [__main__] [friends:251] - Invitatoin Generation Time: 0.002090 seconds 
+[INFO]: [29-06-17 16:32:38]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:40:35]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:40:35]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001454 seconds 
+[INFO]: [29-06-17 16:40:35]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:41:48]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:41:48]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001255 seconds 
+[INFO]: [29-06-17 16:41:48]  [__main__] [friends:234] - Found 11 qualified friends 
+[INFO]: [29-06-17 16:44:53]  [__main__] [friends:153] - Input Friend List file size is small : size in MB = 0 
+[INFO]: [29-06-17 16:44:53]  [__main__] [friends:251] - Invitatoin Generation Time: 0.001759 seconds 
+[INFO]: [29-06-17 16:44:53]  [__main__] [friends:234] - Found 11 qualified friends 
